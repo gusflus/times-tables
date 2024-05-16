@@ -10,7 +10,6 @@
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.23.1",
     "react-scripts": "5.0.1",
-    "typescript": "^5.4.5",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -38,7 +37,9 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@types/typescript": "^2.0.0",
-    "@typescript-eslint/parser": "^7.9.0"
+    "@typescript-eslint/parser": "^7.9.0",
+    "typescript": "^5.4.5"
   }
 }
