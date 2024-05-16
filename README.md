@@ -1,5 +1,11 @@
-react app
-input number from 1 - 12
-mini times table quizzer for a young child
+# Practice your Times Tables
 
-what times tables would i work on
+Quiz yourself on multiplication tables from 1 to 12.
+
+## Try it yourself:
+
+available at [https://times-tables.gusfl.us](https://times-tables.gusfl.us)
+
+### Origin
+
+created by Gus Flusser during DxHub Interview
